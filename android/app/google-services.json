@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800060505803",
+    "project_id": "angela-yu-c91da",
+    "storage_bucket": "angela-yu-c91da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800060505803:android:9889d60e5ef5f0f501254e",
+        "android_client_info": {
+          "package_name": "com.example.angela_yu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7zg40X8QdpwMmQcUx8xTh_LMadUVfrv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
